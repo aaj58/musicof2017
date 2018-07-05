@@ -1,2 +1,2 @@
 Analyzing my own scoring of songs from 2017 and trying to predict my rating. 
-[Full blog post found here.](https://www.ashleyajohn.com/blog/2018/1/8/through-the-headphone-predicting-my-liking-of-music-in-2017)
+[Full blog post found here.](https://ashleyajohn.github.io/2018/01/08/music-2017.html)
